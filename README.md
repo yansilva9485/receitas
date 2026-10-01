@@ -1,1 +1,3 @@
-# receitas
+# Receitas da dupla
+
+Integrantes:
